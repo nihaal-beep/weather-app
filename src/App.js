@@ -5,7 +5,7 @@ import './App.css';
 
 const api = {
   key :  "00c9827b7711403ebf0152309230603",
-  base : "http://api.weatherapi.com/v1/"
+  base : "https://api.weatherapi.com/v1/"
 }
 
 
