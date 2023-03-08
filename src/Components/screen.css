@@ -1,0 +1,23 @@
+.loc{
+    font-style: italic;
+    display: flex;
+
+    justify-content: center;
+    font-size: 26px;
+}
+
+.card-lower{
+    border:black solid 0.01em;
+    border-radius: 0.2em;
+    padding:0.4em;
+    background-color: var(--bg-color);
+    filter:brightness(90%);
+  }
+
+.date{
+    border:black solid 0.01em;
+    border-radius: 0.2em;
+    padding:0.1em;
+    background-color: var(--bg-color);
+    filter:brightness(90%);
+}
